@@ -7,4 +7,4 @@ Omar Wagih (lead developer),
 Nils Eling (UI) and 
 Raghd Rostom (UI) 
 
-during the Hack-Cambridge Hackathon 2017.
+during the [Hack-Cambridge Hackathon 2017](https://hackcambridge.com/).
