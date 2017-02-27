@@ -1,6 +1,6 @@
 # scichat
 
-A live chat client in order to bridge the gap between scientis and the public.
+A live chat client in order to bridge the gap between scientists and the public.
 
 Project developed in collaboration with:
 Omar Wagih (lead developer),
